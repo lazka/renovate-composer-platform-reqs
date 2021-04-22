@@ -8,7 +8,7 @@
     ],
     "require": {
         "php": "^7.3",
-        "psr/cache": "*"
+        "symfony/cache-contracts": "^2.4"
     },
     "config": {
         "platform": {
